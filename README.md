@@ -5,5 +5,5 @@
 - 📫 umarbvt4430@gmail.com
 
 ## 🛠 Skills
-HTML5, CSS3, Bootstrap, Javascript, AngularJs, Python and Git.
+HTML5, CSS3, Bootstrap, Javascript, Angular, Python and Git.
 
