@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 # Hi there, I'm Mohammed Umar M B👋
-## I'm a Student, Web developer, Dedicated, and Quick learner!!
+## I'm a Computer Science Undergraduate, Web developer, Dedicated, and Quick learner!
 
 - 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
 - 🌱 I’m currently learning Mongodb<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
@@ -9,6 +9,11 @@
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I love chai 🤣
 - 😻 Check out my certifications on freecodecamp: [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design), [ JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures).
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=umarshk-mb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+
+
 ---
 
 ### Connect with me:
@@ -41,4 +46,4 @@
 -->
 <br />
 <br />
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=umarshk-mb&show_icons=true)
+
