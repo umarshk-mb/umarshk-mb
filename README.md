@@ -1,11 +1,4 @@
 ## 🚀 About Me
-- I'm a Mohammed Umer M B
-- I'm currently learning Mongodb
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/umarmb/)
-- 📫 imumar944@gmail.com
-
-## 🛠 Skills
-HTML5, CSS3, Javascript, Angular, Material UI, Python, DataStructures and Git.
 
 # Hi there, I'm Mohammed Umar M B👋 
 
@@ -20,7 +13,7 @@ HTML5, CSS3, Javascript, Angular, Material UI, Python, DataStructures and Git.
 ## I'm a Student, Web developer, Dedicated, and Quick learner!!
 
 - 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
-- 🌱 I’m currently learning Mongodb👊
+- 🌱 I’m currently learning Mongodb<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I love to draw and code
@@ -28,20 +21,20 @@ HTML5, CSS3, Javascript, Angular, Material UI, Python, DataStructures and Git.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://github.com/umarshk-mb#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://github.com/umarshk-mb#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+
+[![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg)](linkedin.com/in/umarmb#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](linkedin.com/in/umarmb#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+[![website](./img/instagram-light.svg)](https://instagram.com/umar30_4#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/umar30_4#gh-dark-mode-only)
 
 ### Languages and Tools:
 
