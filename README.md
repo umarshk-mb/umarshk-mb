@@ -13,21 +13,26 @@
 ---
 
 ### Connect with me:
-
+[<img align='left' alt="mail" width="26px" src="img/mail.png" style="padding-right:10px;" />](mailto:imumar944@gmail.com)
 [![website](./img/globe-light.svg)](https://github.com/umarshk-mb#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://github.com/umarshk-mb#gh-dark-mode-only)
-&nbsp;&nbsp;
 
-[![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/umarmb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/umarmb#gh-dark-mode-only)
-&nbsp;&nbsp;
+
+
+[![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
+
+
 
 [![website](./img/instagram-light.svg)](https://instagram.com/umar30_4#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/umar30_4#gh-dark-mode-only)
+
+
+
 
 ---
 
