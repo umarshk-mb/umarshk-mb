@@ -5,5 +5,5 @@
 - 📫 imumar944@gmail.com
 
 ## 🛠 Skills
-HTML5, CSS3, Javascript, Angular, Material UI, Python, DataStructures Git.
+HTML5, CSS3, Javascript, Angular, Material UI, Python, DataStructures and Git.
 
