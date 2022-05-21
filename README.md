@@ -13,14 +13,10 @@
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](mailto:imumar944@gmail.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](mailto:imumar944@gmail.com#gh-dark-mode-only)
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/umarmb#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](mailto:imumar944@gmail.com#gh-dark-mode-only)[![website](./img/linkedin-light.svg)](https://linkedin.com/in/umarmb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/umarmb#gh-dark-mode-only)
-
 [![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
-
 [![website](./img/instagram-light.svg)](https://instagram.com/umar30_4#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/umar30_4#gh-dark-mode-only)
 ---
