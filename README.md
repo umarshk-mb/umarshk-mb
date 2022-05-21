@@ -9,31 +9,20 @@
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I love chai 🤣
 - 😻 Check out my certifications on freecodecamp: [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design), [ JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures).
-
 ---
 
 ### Connect with me:
-[<img align='left' alt="mail" width="26px" src="img/mail.png" style="padding-right:10px;" />](mailto:imumar944@gmail.com)
-[![website](./img/globe-light.svg)](https://github.com/umarshk-mb#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://github.com/umarshk-mb#gh-dark-mode-only)
-
-
+[![website](./img/globe-light.svg)](mailto:imumar944@gmail.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](mailto:imumar944@gmail.com#gh-dark-mode-only)
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/umarmb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/umarmb#gh-dark-mode-only)
 
-
 [![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
 
-
-
 [![website](./img/instagram-light.svg)](https://instagram.com/umar30_4#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/umar30_4#gh-dark-mode-only)
-
-
-
-
 ---
 
 ### Languages and Tools:
@@ -44,6 +33,7 @@
 <img align='left' alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align='left' alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align='left' alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align='left' alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img  align='left' alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align='left' alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
