@@ -4,7 +4,7 @@
 ## I'm a Computer Science Undergraduate, Web developer, Dedicated, and Quick learner!
 
 - 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
-- 🌱 I’m currently learning Mongodb<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<!-- - 🌱 I’m currently learning Mongodb<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
 - 🤝 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I love chai 🤣
