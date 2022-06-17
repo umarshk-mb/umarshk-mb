@@ -34,7 +34,7 @@
 <img align='left' alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align='left' alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align='left' alt="Angular" width="26px" src="/img/angular.png" style="padding-right:10px;" />
-<img align='left' alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<!-- <img align='left' alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
 <img align='left' alt="Python" width="26px" src="/img/python.png" style="padding-right:10px;" />
 
 <img align='left' alt="machine" width="26px" src="/img/machine.png" style="padding-right:10px;" />
