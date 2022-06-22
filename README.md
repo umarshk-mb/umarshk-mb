@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 # Hi there, I'm Mohammed Umar M B👋
-## I'm a Computer Science Undergraduate, Web developer, Dedicated, and Quick learner!
+## I'm a Computer Science Graduate, Web developer, Dedicated, and Quick learner!
 
 - 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
 <!-- - 🌱 I’m currently learning Mongodb<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
