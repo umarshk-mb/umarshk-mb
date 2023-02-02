@@ -6,7 +6,7 @@
 - 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
 <!-- - 🌱 I’m currently learning Reactjs<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
 - Portfolio [Apnawebsite](https://umar-shk.netlify.app/)
-- 🤝 I’m looking to collaborate with other Developers
+<!-- - 🤝 I’m looking to collaborate with other Developers -->
 - 🥅 2022 Goals: Learn more about new technologies
 - ⚡ Fun fact: I love chai 🤣
 - 😻 Check out my certifications on freecodecamp: [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design), [ JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures).
