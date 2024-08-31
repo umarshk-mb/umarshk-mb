@@ -1,49 +1,9 @@
-## 🚀 About Me
+**Hi there** 👋
 
-# Hi there, I'm Mohammed Umer 👋
-## A Software engineer working with a sports product for IVY.
+`I am currently developing applications with Angular, Tailwind css and other frontend tech.`
 
-- 🔭 Check out my recent works: [Projects](https://github.com/umarshk-mb?tab=repositories)!
-<!-- - 🌱 I’m currently learning Reactjs<img  alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
-<!-- - Portfolio [Apnawebsite](https://umar-shk.netlify.app/) -->
-<!-- - 🤝 I’m looking to collaborate with other Developers -->
-<!-- - 🥅 2022 Goals: Learn more about new technologies -->
-- 😻 Check out my certifications on freecodecamp: [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design), [ JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures).
+`Focused on improving user experience by writing a quality code.`
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=umarshk-mb&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+`let's connect on:` [LinkedIn](https://www.linkedin.com/in/umarmb) / [mail-to](imumar944@gmail.com).
 
-
-
----
-
-### Connect with me:
-[![website](./img/globe-light.svg)](mailto:imumar944@gmail.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](mailto:imumar944@gmail.com#gh-dark-mode-only)[![website](./img/linkedin-light.svg)](https://linkedin.com/in/umarmb#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/umarmb#gh-dark-mode-only)
-[![website](./img/twitter-light.svg)](https://twitter.com/umarbvt_4430#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/umarbvt_4430#gh-dark-mode-only)
-[![website](./img/instagram-light.svg)](https://instagram.com/umar30_4#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/umar30_4#gh-dark-mode-only)
----
-
-### Languages and Tools:
-
-<img align='left' alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align='left' alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align='left' alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align='left' alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align='left' alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align='left' alt="Angular" width="26px" src="/img/angular.png" style="padding-right:10px;" />
-<!-- <img align='left' alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /> -->
-<img align='left' alt="Python" width="26px" src="/img/python.png" style="padding-right:10px;" />
-
-<img align='left' alt="machine" width="26px" src="/img/machine.png" style="padding-right:10px;" />
-<img  align='left' alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align='left' alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align='left' alt="adobe" width="26px" src="/img/adobe.png" style="padding-right:10px;" />
-
-<!--[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
--->
-<br />
-<br />
-
+`Certifications:` [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design) / [JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures) / [Python](https://www.coursera.org/account/accomplishments/certificate/CX36HDLWP3PG).
