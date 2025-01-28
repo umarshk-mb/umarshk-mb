@@ -4,7 +4,7 @@
 
 `Focused on improving user experience by writing a quality code.`
 
-`I also writing API's using Node and Express`
+`I also write API's using Node and Express`
 
 `let's connect on:` [LinkedIn](https://www.linkedin.com/in/umarmb) / [mail-to](imumar944@gmail.com).
 
