@@ -10,4 +10,4 @@
 
 `Certifications:` [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design) / [JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures) / [Python](https://www.coursera.org/account/accomplishments/certificate/CX36HDLWP3PG).
 
-`Check out my portfolio` [Apnawebsite]([https://www.loom.com/share/71d0b094e5994a8badc2ceb551a2f49b?sid=73e284f2-5568-4916-b96e-201fab1828f6](https://www.loom.com/share/8c157f89fa674b7dbfb6dd9b18be37fa?sid=8f6e8357-c800-43d2-bd3e-4737377df690)), recorded using the Loom platform for a quick and accessible walkthrough.
+`Check out my portfolio` [Apnawebsite](https://www.loom.com/share/8c157f89fa674b7dbfb6dd9b18be37fa?sid=5068200f-d856-4587-a7a1-c3c76ddcfb25), recorded using the Loom platform for a quick and accessible walkthrough.
