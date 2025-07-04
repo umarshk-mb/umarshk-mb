@@ -4,7 +4,7 @@
 
 `Focused on improving user experience by writing a quality code.`
 
-`Familiarity of .NET, SQl and NoSQl`
+`Familiarity with .NET, SQl and NoSQl`
 
 `Open for collabration let's connect through:` [LinkedIn](https://www.linkedin.com/in/umarmb) / [mail-to](imumar944@gmail.com).
 
