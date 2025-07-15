@@ -1,7 +1,7 @@
 **Hi there** 👋
 
 
-I'm currently building modern web applications using `Angular, Redux, Tailwind CSS, TypeScript` and other frontend technologies.
+I'm currently building modern web applications using `Angular, Redux, Tailwind CSS, TypeScript` & other frontend technologies.
 
 `Passionate about crafting accessible, performant, and user-friendly experiences.`
 
