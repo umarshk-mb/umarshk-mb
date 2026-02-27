@@ -5,9 +5,9 @@ I'm currently building modern web applications using `Angular, Redux, Tailwind C
 
 `Passionate about crafting accessible, performant, and user-friendly experiences.`
 
-`Comfortable working with .NET, SQL, and NoSQL technologies on the backend.`
+`HandsOn experience using NodeJs, C#, .NET technologies on the backend.`
 
-`Open to collabration and new opportunities - let's connect:` [LinkedIn](https://www.linkedin.com/in/umarmb) / [mail-to](imumar944@gmail.com).
+`Open for collabration and new opportunities - let's connect:` [LinkedIn](https://www.linkedin.com/in/umarmb) / [mail-to](imumar944@gmail.com).
 
 `Certifications:` [Responsive web design](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/responsive-web-design) / [JavaScript](https://www.freecodecamp.org/certification/fccfc37f447-0dc0-4435-ac76-33d42f53a6ef/javascript-algorithms-and-data-structures) / [Python](https://www.coursera.org/account/accomplishments/certificate/CX36HDLWP3PG).
 
